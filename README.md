@@ -5,7 +5,7 @@ Each assignment is organized into folders named according to the corresponding h
 ```git clone https://github.com/PeMikj/backend_hws.git```
 
 ## Navigate to the folder
-```cd backend_hws/hw1```
+```cd backend_hws/homework1```
 
 ## Install the dependencies
 ```pip install -r requirements.txt```
