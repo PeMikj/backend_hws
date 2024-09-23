@@ -1,4 +1,4 @@
-This repository contains several homework assignments. 
+This repository contains homework assignments. 
 Each assignment is organized into folders named according to the corresponding homework task
 
 ## Clone the repository:
