@@ -2,13 +2,13 @@ This repository contains several homework assignments.
 Each assignment is organized into folders named according to the corresponding homework task
 
 ## Clone the repository:
-git clone https://github.com/PeMikj/backend_hws.git
+```git clone https://github.com/PeMikj/backend_hws.git```
 
 ## Navigate to the folder
-cd backend_hws/hw1
+```cd backend_hws/hw1```
 
 ## Install the dependencies
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ## Run the application
-uvicorn main:app --reload
+```uvicorn main:app --reload```
