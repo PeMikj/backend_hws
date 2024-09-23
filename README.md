@@ -11,4 +11,4 @@ Each assignment is organized into folders named according to the corresponding h
 ```pip install -r requirements.txt```
 
 ## Run the application
-```uvicorn main:app --reload```
+```python3 -m uvicorn app:app```
